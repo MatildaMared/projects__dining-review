@@ -22,8 +22,8 @@ public class Restaurant {
     private String postalCode;
     private String phoneNumber;
     private String website;
-    private String overallScore;
-    private String peanutScore;
-    private String dairyScore;
-    private String eggScore;
+    private float overallScore;
+    private int peanutScore;
+    private int dairyScore;
+    private int eggScore;
 }
