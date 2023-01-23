@@ -20,8 +20,10 @@ public class Review {
     private String submittedBy;
     private Long restaurantId;
     private String review;
-    
+
     private Integer peanutScore;
     private Integer dairyScore;
     private Integer eggScore;
+
+    private ReviewStatus status;
 }
